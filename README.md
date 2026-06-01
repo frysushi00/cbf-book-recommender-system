@@ -14,6 +14,9 @@ A book recommendation engine using content-based filtering that aims to solve th
 - **📌 LLM Integration** — Using LLM to generate book keywords for better recommendations.
 - **📓 Attribute-Based Matching** — Analyzes intrinsic book properties to suggest relevant books to readers.
 
+## Note:
+You can use my datasets here: https://www.kaggle.com/datasets/aininurulamri/book-dataset-for-cbf-recommender-system
+
 ## ⚡ Quick Start
 
 ```bash
